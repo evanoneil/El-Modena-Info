@@ -1,4 +1,4 @@
-# Noise of other people's thoughts and feelings
+# El Modena .INFO
 
 _Fully customizable blog template with a React.js front-end._
 
